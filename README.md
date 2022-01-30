@@ -20,7 +20,7 @@
 - Python3 ruining for Esptool.
 - Advanced IP Scanner for checking raspberry pi IP address.
 - VNC Viewer for Raspberry pi.
-- Mosquitto running in raspberry:
+- Mosquitto running on raspberry.
 
 ## Usages
 
