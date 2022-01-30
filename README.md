@@ -32,7 +32,7 @@ Use the files for,
 
 - Demo- output
 
-More detailed information can be found on the technical document- document/weather_station.docs
+More detailed information can be found on the technical document- document/weather_station_temperature.pdf
 
 
 ## Contributing
